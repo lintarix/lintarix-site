@@ -1,0 +1,2 @@
+# lintarix-site
+landing page
